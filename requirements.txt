@@ -1,0 +1,7 @@
+gradio
+pytesseract # for ocr, you need to install it according to your system
+jupyterlab
+ipywidgets
+langchain_core
+langchain_ibm
+openai # for whisper, if you run it locally remove this line
